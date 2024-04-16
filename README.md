@@ -1,4 +1,4 @@
-# minimal_weather_app
+# Today Weather Mobile App
 
 A new Flutter project.
 
