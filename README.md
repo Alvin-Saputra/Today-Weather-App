@@ -1,16 +1,8 @@
 # Today Weather Mobile App
+Create an android app to display the latest information about weather based on user device location.
+![image](https://github.com/Alvin-Saputra/Today-Weather-App/assets/145079710/91e9fb75-5c31-41cb-8f77-3da2677e2d33)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Tech Stack
+Flutter: a UI framework by Google for building cross-platform applications
+Dart: the programming language used by Flutter
+OpenWeatherAPI: a service that provides weather data which can be integrated into Flutter applications written in Dart.
