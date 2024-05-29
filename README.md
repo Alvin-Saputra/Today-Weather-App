@@ -9,7 +9,7 @@ Create an android app to display the latest information about weather based on u
 3. Create a Android Virtual Device using android studio
 4. run The virtual device
 5. On your code editor, choose the running virtual device
-6. run the project using terminal
+6. run the project: flutter run lib/main.dart
 
 ## Tech Stack
 - Flutter: a UI framework by Google for building cross-platform applications
