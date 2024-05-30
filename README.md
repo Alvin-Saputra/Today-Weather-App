@@ -21,7 +21,7 @@ Create an android app to display the latest information about weather based on u
 
 ## ScreenShots
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap;" >
   <img src="https://github.com/Alvin-Saputra/Today-Weather-App/assets/145079710/4b99646a-9a4e-4b9f-a2ff-98aa55b26e5b" alt="Screenshot 1" width="200"/>
   <img src="https://github.com/Alvin-Saputra/Today-Weather-App/assets/145079710/067ad3a1-1bd6-4a2d-8215-1861dea0e251" alt="Screenshot 2" width="200"/>
   <img src="https://github.com/Alvin-Saputra/Today-Weather-App/assets/145079710/4bfba07b-8276-4142-89d0-d8fa84ad1653" alt="Screenshot 3" width="200"/>
